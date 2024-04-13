@@ -524,9 +524,12 @@ body {
   .header__title {
     padding: 100px 50px 65px 100px;
   }
+.header__content {
+    min-height: 84vh;
+  }
 
   .teamGallery-item{
-    width: 27vh;
+    width: 25vh;
     margin-bottom: 10px;
     margin-top: 10px;
   }
